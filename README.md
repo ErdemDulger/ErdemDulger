@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErdemDulger
-- 👀 I’m interested in html-css-javascript
-- 🌱 I’m currently learning html-css-javascript
-- 💞️ I’m looking to collaborate on html-css-javascript
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Tailwind CSS with Next.js
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me erdm8816@gmail.com
 
 <!---
